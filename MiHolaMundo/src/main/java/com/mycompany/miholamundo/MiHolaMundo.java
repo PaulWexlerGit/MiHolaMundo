@@ -11,7 +11,7 @@ package com.mycompany.miholamundo;
 public class MiHolaMundo {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
-        System.out.println("Nueva linea desde remoto");
+        System.out.println("Nueva línea desde remoto");
         
     }
     
